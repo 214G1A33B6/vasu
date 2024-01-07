@@ -1,0 +1,4 @@
+import string
+for letter in string.ascii_uppercase:
+    print("letter is",letter)
+    print("ascii is",ord(letter))
